@@ -12,7 +12,7 @@ Created by **Robel Y.**
 ---
 
 ## 📸 Screenshot
-![Sample Output](sample_output.png)
+![Sample Output](sample_output_1.png,sample_output_2.png)
 
 ---
 
