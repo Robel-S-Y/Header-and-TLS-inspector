@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.tmp
+
+# Backup files (e.g. from editors)
+*~
+*.bak
+*.swp
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Ignore compiled shellcheck output or tools if added later
+*.out
+
+# If sample output files are generated dynamically
+output_*.txt
+report_*.json
