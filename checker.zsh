@@ -18,7 +18,8 @@ echo "   ---------------------------------------------------------"
 #url input
 echo  "Enter the URL(Domain name) : "
 read URL
-
+URL="${URL#http://}"
+URL="${URL#https://}"
 
 # Initialization
 MISSING_COUNT=0
